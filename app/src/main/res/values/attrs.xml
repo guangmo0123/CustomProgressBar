@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--自定义属性-->
+    <attr name="progressbar_unreach_color" format="color" />
+    <attr name="progressbar_unreach_height" format="dimension" />
+    <attr name="progressbar_reach_color" format="color" />
+    <attr name="progressbar_reach_height" format="dimension" />
+    <attr name="progressbar_text_size" format="dimension" />
+    <attr name="progressbar_text_color" format="color" />
+    <attr name="progressbar_text_offset" format="dimension" />
+
+    <!--给自定义view添加自定义属性-->
+    <declare-styleable name="MyHorizontalProgressBar">
+        <attr name="progressbar_reach_color" />
+        <attr name="progressbar_reach_height" />
+        <attr name="progressbar_unreach_color" />
+        <attr name="progressbar_unreach_height" />
+        <attr name="progressbar_text_size" />
+        <attr name="progressbar_text_color" />
+        <attr name="progressbar_text_offset" />
+    </declare-styleable>
+
+    <!--给自定义view添加自定义属性-->
+    <declare-styleable name="MyCircleProgressBar">
+        <attr name="progressbar_reach_color" />
+        <attr name="progressbar_reach_height" />
+        <attr name="progressbar_unreach_color" />
+        <attr name="progressbar_unreach_height" />
+        <attr name="progressbar_text_size" />
+        <attr name="progressbar_text_color" />
+    </declare-styleable>
+
+</resources>
