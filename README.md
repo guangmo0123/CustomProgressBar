@@ -5,4 +5,4 @@
 
 ### 效果图如下
 
-[!哎呀图没找到。。。](img-storage/example.png)
+![](img-storage/example.png)
